@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ListActivity"
+            android:name=".list.ListActivity"
             android:exported="false"
             android:label="@string/title_activity_list"
             android:theme="@style/Theme.MyCompose"

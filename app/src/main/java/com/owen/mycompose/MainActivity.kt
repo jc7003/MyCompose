@@ -26,6 +26,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.owen.mycompose.list.ListActivity
 import com.owen.mycompose.ui.item.Greeting
 import com.owen.mycompose.ui.theme.MyComposeTheme
 
